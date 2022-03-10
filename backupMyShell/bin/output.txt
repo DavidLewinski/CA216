@@ -1,0 +1,57 @@
++---------------------------------------+
+|                                       |
+|              MyShell v1.0             |
+|                                       |
+|         Name: Dawid Lewinski          |
+|       Student Number: 20466172        |
+|                                       |
++---------------------------------------+
+
+
+System time:    20:39:57
+Welcome,        @david
+Use "help" to access the shell manual.
+
+
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> 
+/mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin
+
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> 
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell> 
+/mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell
+
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell> 
+╭── david@david 20:39:58 
+└── </mnt/ctotal 32
+drwxrwxrwx 1 david david   512 Mar  8 00:59 .
+drwxrwxrwx 1 david david   512 Mar  5 17:20 ..
+-rwxrwxrwx 1 david david     0 Mar  2 21:15 .gitkeep
+-rwxrwxrwx 1 david david 22432 Mar  8 00:59 MyShell
+-rwxrwxrwx 1 david david  1024 Mar 10 20:39 output.txt
+-rwxrwxrwx 1 david david    50 Mar  5 09:58 test.txt
+drwxrwxrwx 1 david david   512 Mar  5 10:18 test1
+total 4
+drwxrwxrwx 1 david david 512 Mar  5 17:20 .
+drwxrwxrwx 1 david david 512 Mar  4 21:03 ..
+drwxrwxrwx 1 david david 512 Mar  4 21:03 .vscode
+drwxrwxrwx 1 david david 512 Mar  8 00:59 bin
+drwxrwxrwx 1 david david 512 Mar  4 21:03 manual
+-rwxrwxrwx 1 david david 906 Mar  2 21:15 readme.md
+drwxrwxrwx 1 david david 512 Mar  5 06:55 src
+/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> 
+/mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin
+
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> 
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> 
+
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> test 
+
+╭── david@david 20:39:58 
+└── </mnt/c/Users/david/Documents/DCU/year2/ca216/backupMyShell/bin> 
